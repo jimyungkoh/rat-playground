@@ -1,0 +1,21 @@
+{
+  "name": "rat-playground",
+  "version": "1.0.0",
+  "description": "Experimental implementation of RAT (Retrieval Augmented Thoughts)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.36.3",
+    "@modelcontextprotocol/sdk": "^1.4.1",
+    "dotenv": "^16.4.7",
+    "openai": "^4.80.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  }
+}
