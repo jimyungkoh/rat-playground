@@ -1,0 +1,5 @@
+# Ignore all files related to .env with regex
+/.env
+
+# Ignore all files related to node_modules
+node_modules/
